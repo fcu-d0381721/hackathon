@@ -1,0 +1,56 @@
+
+
+.container {
+    margin-top: 2rem;
+    margin-bottom: 2em;
+    height: auto;
+}
+label{
+    color:black;
+}
+
+.form-group{
+    margin-right: 0;
+    margin-left: 0;
+    padding-left: 0.6em;
+    padding-right: 0.6em;
+}
+.butt{
+    margin:4% auto;
+    display: flex;
+}
+.border-success {
+    border-color: rgb(255, 187, 0) !important;
+}
+.border-primary {
+    padding-top: 1.5rem;
+    border-color: rgb(158, 107, 240) !important;
+}
+.btn.btn-outline-success,.btn.btn-outline-primary{
+    font-weight: 550;
+    width: 23.5%
+}
+.btn-outline-success.focus{
+    color: rgb(255, 187, 0);
+    background-color: transparent;
+    background-image: none;
+    border-color: rgb(255, 187, 0);
+}
+.btn-outline-primary.focus{
+    color: rgb(158, 107, 240);
+    background-color: transparent;
+    background-image: none;
+    border-color: rgb(158, 107, 240) ;
+}
+#map{
+    position: none;
+    overflow: visible;
+    position: relative;
+}
+html, body, #map{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+

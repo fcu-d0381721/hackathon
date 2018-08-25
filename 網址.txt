@@ -1,0 +1,5 @@
+主頁：http://140.134.26.31/hackson/index.php
+警局端：http://140.134.26.31/hackson/police.php
+消防端：http://140.134.26.31/hackson/firestation.php
+醫院端：http://140.134.26.31/hackson/hospital.php
+警及通報頁面：http://140.134.26.31/hackson/map.php
